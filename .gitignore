@@ -8,7 +8,8 @@ target/
 *.iws
 *.iml
 *.ipr
-
+scr/main/java/new*
+scr/main/java/remote*
 ### Eclipse ###
 .apt_generated
 .classpath
